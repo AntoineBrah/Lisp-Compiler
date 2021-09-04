@@ -1,11 +1,3 @@
-/*
-*  Groupe :
-*    - Barbier Antoine     
-*    - Brahimi Antoine
-*
-*  Master : Aigle
-*/
-
 
 ## Utilisation compilateur
 
