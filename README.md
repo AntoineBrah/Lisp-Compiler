@@ -1,3 +1,15 @@
+# Machine virtuelle & compiltateur en Lisp
+
+## Screenshots
+<p align="middle">
+  <img src="lisp-compiler/screenshots/lisp1.png" />
+  <img src="lisp-compiler/screenshots/lisp2.png" />
+  <img src="lisp-compiler/screenshots/lisp3.png" /> 
+  <img src="lisp-compiler/screenshots/lisp4.png" /> 
+</p>
+
+## Description
+L'objectif du projet est de réaliser un compilateur qui prend en entrée une expression lisp et fournit en sortie le fichier équivalent en asm. Il faut également réaliser une machine virtuelle qui va interpréter le fichier asm généré par le compilateur et interpréter le code asm pour enfin fournir un résultat.
 
 ## Utilisation compilateur
 
