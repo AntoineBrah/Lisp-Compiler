@@ -1,4 +1,4 @@
-# Machine virtuelle & compiltateur en Lisp
+# Machine virtuelle & compilateur en Lisp
 
 ## Screenshots
 <p align="middle">
